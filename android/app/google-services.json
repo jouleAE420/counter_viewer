@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "921646804468",
+    "firebase_url": "https://sikkercounter-default-rtdb.firebaseio.com",
+    "project_id": "sikkercounter",
+    "storage_bucket": "sikkercounter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921646804468:android:3e0effdcf22ccccaec5da1",
+        "android_client_info": {
+          "package_name": "com.example.counter_viewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921646804468-m6jrel6qseas79gq5d8pjocitqgueq16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3zrniGBKivRv4fZAGA20WcjBbGR2WjH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921646804468-m6jrel6qseas79gq5d8pjocitqgueq16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
